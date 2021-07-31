@@ -19,13 +19,13 @@ Visit Here:
 
 This BMI calculator is completely mobile friendly and it also W3C validated.
 
-- {Mobile Friendly Check](https://search.google.com/test/mobile-friendly?id=cyumpuxLXMpu0WvhySuwgQ)
+- {Mobile Friendly Check] (https://search.google.com/test/mobile-friendly?id=cyumpuxLXMpu0WvhySuwgQ)
 
-- [W3C Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbmicalculators.netlify.app%2F)
+- [W3C Validation] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fbmicalculators.netlify.app%2F)
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/BipronathSaha99/bmicalculator/blob/main/LICENSE)
 
 
 ## Authors
